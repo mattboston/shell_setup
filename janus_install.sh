@@ -26,7 +26,7 @@ function janus_module () {
 }
 
 echo "Installing RPM dependencies"
-yum -y install ruby rubygem-rake ruby-devel ctags ack git
+yum -y install vim-minimal vim-common vim-enhanced vim-filesystem ruby rubygem-rake ruby-devel ctags ack git
 echo ''
 
 if [ -d ~/.vim ]
