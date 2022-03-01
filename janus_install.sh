@@ -55,3 +55,6 @@ janus_module https://github.com/tpope/vim-fugitive
 janus_module https://github.com/tpope/vim-surround
 janus_module https://github.com/scrooloose/nerdtree
 janus_module https://github.com/airblade/vim-gitgutter
+janus_module https://github.com/saltstack/salt-vim.git
+janus_module https://github.com/Glench/Vim-Jinja2-Syntax.git
+
